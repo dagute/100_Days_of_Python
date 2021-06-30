@@ -10,7 +10,7 @@
 - **Day 8** [Caesar Cipher](https://replit.com/@dagute/caesar-cipher-4-start#main.py)
 - **Day 9** [Blind Auction](https://replit.com/@dagute/blind-auction-start#main.py)
 - **Day 10** [Calculator](https://replit.com/@dagute/calculator-final#main.py)
-- **Day 11** [Blakjack](https://replit.com/@dagute/blackjack-final#main.py)
+- **Day 11** [Blackjack](https://replit.com/@dagute/blackjack-final#main.py)
 - **Day 12** [Guess the Number](https://replit.com/@dagute/guess-the-number-final#main.py)
 - **Day 13** [Debugging](https://replit.com/@dagute/day-13-start#main.py)
 - **Day 14** [Higher Lower Game Project](https://replit.com/@dagute/higher-lower-final#main.py)
